@@ -1,0 +1,17 @@
+body, html, p {color:#a3d3c6; }
+
+.container {max-width: 500px; margin: auto; width: 90%;text-align: center;margin-top: 50px; }
+
+.character-container, .character {width: 350px;
+height: 349px;
+margin: auto; }
+
+h1 {color:#a3d3c6; text-transform: uppercase; letter-spacing: 0.5em; border: 1px solid; padding: 10px;}
+
+.character {background-image: url(img/stand.png);}
+    
+.jump {background-image: url(img/jump.png);}
+    
+.swipe-left {background-image: url(img/left.png);}
+    
+    
